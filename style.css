@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pictures{
+    display: flex;
+
+}
+
+.sandwich{
+    margin: 10px;
+    height: 450px;
+    width: 400px;
+
+    margin-left: 70px;
+}
+.sandwich img{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+.steak{
+    margin: 10px;
+    height: 450px;
+    width: 400px;
+}
+.steak img{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+.cherries{
+    margin: 10px; 
+    height: 450px;
+    width: 400px;
+}
+.cherries img{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+.pasta{
+    margin: 10px;
+    height: 450px;
+    width: 400px;
+
+    margin-right: 70px;
+}
+.pasta img{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+.pictures_2{
+    display: flex;
+}
+
+.popsicle{
+    margin: 10px;
+    height: 450px;
+    width: 400px;
+
+    margin-left: 70px;
+}
+.popsicle img{
+    height: 100%;
+    width: 100%;
+}
+
+
+.salmon{
+    margin: 10px;
+    height: 450px;
+    width: 400px;
+}
+.salmon img{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.sandwich_2{
+    margin: 10px; 
+    height: 450px;
+    width: 400px;
+}
+.sandwich_2 img{
+    height: 100%;
+    width: 100%;
+}
+
+
+.corissant{
+    margin: 10px;
+    height: 450px;
+    width: 400px;
+
+    margin-right: 70px;
+}
+.corissant img{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.travels{
+    display: flex;
+    width: 1500px;
+}
+
+.footers{
+    margin-left: 70px;
+    width: 50%;
+
+}
+
+.blog_posts{
+    width: 25%;
+}
+
+.blog_posts img{
+    width: 50px;
+    height: 50px;
+}
+
+.popular_tags{
+    width: 25%;
+    margin-right: 70px;
+}
+
